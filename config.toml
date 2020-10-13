@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "/"
+languageCode = "pt-pt"
 title = "Loja do Daniel"
 theme = "hugo-shopping-product-catalogue-simple"
 themesDir = "./themes"
